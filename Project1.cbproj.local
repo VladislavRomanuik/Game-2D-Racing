@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.147,C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Main.cpp=C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Unit16.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.183,=C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Unit17.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.077,D:\Машинки\Project1.cbproj=C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.352,D:\Машинки\Main.cpp=C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.833,C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Game.cpp=C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Unit17.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.352,D:\Машинки\Main.h=C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.950,=C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.147,C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Main.dfm=C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Unit16.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.833,C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Game.h=C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Unit17.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.575,D:\Машинки\Game.cpp=C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Game.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.575,D:\Машинки\Game.h=C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Game.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.529,=C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Unit16.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.147,C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Main.h=C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Unit16.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.352,D:\Машинки\Main.dfm=C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.031,=C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Unit16.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.794,=C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.992,=C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Unit6.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.869,C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Project1.cbproj=C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.835,=C:\Users\fasto\OneDrive\Документы\RAD Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Game.cpp"/>
+    <File Path="Game.cpp"/>
+    <File Path="Game.h"/>
+    <File Path="Main.cpp"/>
+    <File Path="Main.cpp"/>
+    <File Path="Main.dfm"/>
+    <File Path="Main.h"/>
+    <File Path="Project1.cpp"/>
+  </ProjectSortOrder>
+</BorlandProject>
